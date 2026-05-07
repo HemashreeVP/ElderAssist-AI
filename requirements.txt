@@ -1,0 +1,8 @@
+gradio
+pytesseract
+opencv-python
+pillow
+google-generativeai
+SpeechRecognition
+gtts
+numpy
