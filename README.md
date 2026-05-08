@@ -231,7 +231,7 @@ for educational and research purposes.
 Add your demo video link here:
 
 ```text
-<your-demo-video-link>
+https://drive.google.com/file/d/1_3ChizxJ4Mjdnla8e41W0k5_4jhQ7fjI/view?usp=sharing
 ```
 
 ---
