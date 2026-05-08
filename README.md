@@ -242,6 +242,6 @@ MIT License
 
 # 👩‍💻 Team
 
-Team Name: MSRIT_Comet
+Team Name: MS Ramaiah Institute of Technology_Comet
 
 Project developed for Samsung PRISM – Clash of the Claws.
